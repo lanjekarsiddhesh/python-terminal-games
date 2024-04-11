@@ -1,0 +1,6 @@
+/shelf/
+/workspace.xml
+*.xml
+*.pyc
+.idea
+/__pycache__/
